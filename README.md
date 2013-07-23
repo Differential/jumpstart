@@ -13,9 +13,3 @@ A base starting point for front-end dev. Includes HTML5 layout, jQuery, Bootstra
 ## Browser Support
 
 Currently does not support IE 6, 7 or 8. Users of older browers will see a warning to update.
-
-## Credits
-
-**Bootstrap** by @mdo and @fat - [http://twitter.github.io/bootstrap/](http://twitter.github.io/bootstrap/)
-
-**Font Awesome** by Dave Gandy - [http://fontawesome.io](http://twitter.github.io/bootstrap/)
