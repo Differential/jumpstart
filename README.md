@@ -5,11 +5,11 @@ A base starting point for front-end dev. Includes HTML5 layout, jQuery, Bootstra
 ## Includes
 
 * HTML5 Template
-* jQuery 1.10.1
+* jQuery 2.0.3
 * Bootstrap 3.0
 * Font Awesome 3.2.1
 * LESS Mixins
 
 ## Browser Support
 
-Currently does not support IE 6, 7 or 8. Users of older browers will see a warning to update.
+Does not support IE 6, 7 or 8. Users of older browers will see a warning to update.
