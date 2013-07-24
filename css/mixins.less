@@ -1,0 +1,14 @@
+/* ===============================
+    LESS MIXINS
+   =============================== */
+
+.transition(@arguments: all 0.2s ease) {
+  -webkit-transition: @arguments;
+  transition: @arguments;
+}
+
+.transform(@arguments) {
+  -webkit-transform: @arguments;
+  -moz-transform: @arguments;
+  transform: @arguments;
+}
