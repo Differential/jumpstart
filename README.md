@@ -1,3 +1,3 @@
 ## Jumpstart
 
-Read our [documentation](http://github.differential.io/jumpstart)
+See our [documentation](http://github.differential.io/jumpstart)
