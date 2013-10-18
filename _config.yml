@@ -1,0 +1,5 @@
+name: jumpstart
+markdown: redcarpet
+pygments: true
+baseurl: /jumpstart
+exclude: ["vendor"]

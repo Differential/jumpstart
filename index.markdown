@@ -1,4 +1,13 @@
-# Jumpstart v1.0
+---
+layout: default
+username: BeDifferential
+repo: jumpstart
+version: 1.0.0
+desc: Base starting point for front-end dev
+
+---
+
+# Jumpstart
 
 A base starting point for front-end dev. Includes HTML5 layout, jQuery, Bootstrap, Font Awesome and Less mixins. With a clean file organization.
 
