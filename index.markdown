@@ -2,7 +2,6 @@
 layout: default
 username: BeDifferential
 repo: jumpstart
-version: 1.0.0
 desc: Base starting point for front-end dev
 
 ---
@@ -15,8 +14,8 @@ A base starting point for front-end dev. Includes HTML5 layout, jQuery, Bootstra
 
 * HTML5 Template
 * jQuery 2.0.3
-* Bootstrap 3.0
-* Font Awesome 3.2.1
+* Bootstrap 3.0.3
+* Font Awesome 4.0.3
 * LESS Mixins
 
 ## Browser Support
