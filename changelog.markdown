@@ -8,6 +8,10 @@ desc: Base starting point for front-end dev
 ---
 # Changelog
 
+### 5/29/2014
+
+* Update to Font Awesome 4.1.0
+
 ### 3/14/2014
 
 * Update to Bootstrap 3.1.1

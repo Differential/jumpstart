@@ -15,7 +15,7 @@ A base starting point for front-end dev. Includes HTML5 layout, jQuery, Bootstra
 * HTML5 Template
 * jQuery 2.0.3
 * Bootstrap 3.1.1
-* Font Awesome 4.0.3
+* Font Awesome 4.1.0
 * LESS Mixins
 
 ## Browser Support
